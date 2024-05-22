@@ -92,7 +92,7 @@
     /* color-1(#5F9295)
      * color-2(#2D2327)
      */
-    --color-1                      : #be2f37;
+    --color-1                      : #737FF0;
     --color-2                      : hsla(336, 13%, 16%, 1);
 
     /* theme color variations
@@ -2723,7 +2723,7 @@ td:last-child {
 }
 
 .text-huge-title {
-    --text-huge       : 9.4rem;
+    --text-huge       : 5.4rem;
     --text-multiplier : 1;
     font-family       : var(--font-2);
     font-weight       : 400;
