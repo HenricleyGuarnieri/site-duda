@@ -2723,7 +2723,7 @@ td:last-child {
 }
 
 .text-huge-title {
-    --text-huge       : 5.4rem;
+    --text-huge       : 6.4rem;
     --text-multiplier : 1;
     font-family       : var(--font-2);
     font-weight       : 400;
