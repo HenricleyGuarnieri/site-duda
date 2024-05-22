@@ -92,12 +92,12 @@
     /* color-1(#5F9295)
      * color-2(#2D2327)
      */
-    --color-1                      : #737FF0;
+    --color-1                      : hsl(212, 70%, 84%);
     --color-2                      : hsla(336, 13%, 16%, 1);
 
     /* theme color variations
      */
-    --color-1-lighter              : #5C5EF1;
+    --color-1-lighter              : #db2323;
     --color-1-light                : #4F51CF;
     --color-1-dark                 : #383a96;
     --color-1-darker               : #2b2c72;
@@ -171,7 +171,7 @@
 
     /* preloader
      */
-    --color-preloader-bg           : #d2dffe;
+    --color-preloader-bg           : hsl(212, 70%, 84%);
     --color-loader                 : var(--color-text-dark);
     --color-loader-light           : var(--color-1-lighter);
 
