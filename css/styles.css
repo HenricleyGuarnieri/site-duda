@@ -97,10 +97,10 @@
 
     /* theme color variations
      */
-    --color-1-lighter              : #db2323;
-    --color-1-light                : #4F51CF;
-    --color-1-dark                 : #383a96;
-    --color-1-darker               : #2b2c72;
+    --color-1-lighter              : #aeb9ff;
+    --color-1-light                : #696bd6;
+    --color-1-dark                 : #212251;
+    --color-1-darker               : #0d0e29;
 
     --color-2-lighter              : hsla(336, 13%, 36%, 1);
     --color-2-light                : hsla(336, 13%, 26%, 1);
